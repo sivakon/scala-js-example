@@ -1,0 +1,1 @@
+Scala.js 1.0.0-M1 does not work with IntelliJ for some reason.
