@@ -1,7 +1,8 @@
 package example
-import scala.scalajs.js.annotation.JSExport
+import scala.scalajs.js.annotation.{JSExport, JSExportTopLevel}
 import org.scalajs.dom
 import org.scalajs.dom.html
+
 import scala.util.Random
 
 case class Point(x: Int, y: Int){
